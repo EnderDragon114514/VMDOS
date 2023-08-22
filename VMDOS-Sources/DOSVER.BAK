@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+	printf("About VMDOS\n");
+	printf("%      %   %     %   %%%%       %%%%%       %%%%%\n");
+	printf("%      %   %%   %%   %   %     %     %     %\n");
+	printf("%      %   % % % %   %    %   %       %     %%%%%\n");
+	printf(" %    %    %  %  %   %    %   %       %          %\n");
+	printf("  %  %     %     %   %   %     %     %           %\n");
+	printf("   %%      %     %   %%%%       %%%%%       %%%%%\n");
+	printf("Version 1.0.0\n");
+	printf("(C)Copyright 2023 EnderDragon123\n");
+	return 0;
+}
